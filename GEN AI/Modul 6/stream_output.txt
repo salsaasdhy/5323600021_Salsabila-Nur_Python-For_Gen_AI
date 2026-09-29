@@ -1,0 +1,1 @@
+Embeddings are dense numerical vector representations that capture the semantic meaning and relationships of data, such as words or images, in a continuous space.
